@@ -29,4 +29,4 @@
 ### Contact information:
 * Phone: +375 29 669 23 42
 * Email: alinakhrysto@gmail.com
-[LinkedIn] (https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B8%D0%BD%D0%B0-auloni-5-9574b7113/)
+* [LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B8%D0%BD%D0%B0-auloni-5-9574b7113/)
