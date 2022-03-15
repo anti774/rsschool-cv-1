@@ -13,9 +13,9 @@
 *    Git, GitHub.
 ******************************************************************************************************************
 ### Languages:
-*    English: Intermediate.
-*    Polish:  Intermediate.
-*    Russian - Native.
+*    **English:** Intermediate.
+*    **Polish:**  Intermediate.
+*    **Russian:** Native.
 ******************************************************************************************************************
 ### Education:
 **Name of the Education Establishment:** Shirokov's Institute of Contemporary Knowledge
