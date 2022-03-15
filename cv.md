@@ -5,7 +5,7 @@
 *    Proven an ability to master new tools and technologies as well as writing Technical Documentation.
 *    Can works as individual and as the team member.
   
-======
+******
 *    Front End: JavaScript.
 *    HTML5, CSS3.
 *    Figma.
